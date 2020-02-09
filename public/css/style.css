@@ -3232,4 +3232,14 @@ input[type=text]::-ms-clear {
         font-size: 1.2em;
     }
 }
+.myimg{
+
+  overflow: hidden; 	
+}
+.inner-img {
+  transition: 0.8s;
+}
+.inner-img:hover {
+  transform: scale(1.7);
+}
 
